@@ -9,6 +9,7 @@
     "assert": "^2.1.0",
     "circom_tester": "^0.0.20",
     "elliptic": "^6.5.4",
+    "figlet": "^1.7.0",
     "typescript": "^5.3.3"
   },
   "devDependencies": {
